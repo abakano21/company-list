@@ -1,0 +1,26 @@
+Create a web application using MVC framework.
+
+    Two modules
+        Admin
+            i.      Login to admin panel
+            ii.     Create company details with google map location, image, name and other required details.
+                    (Form must include textbox, select, radio button, checkboxes and email).
+                    
+            iii.    Validation (All fields must be filled. Email validation)
+            iv.     Confirm all details before submit.
+            v.      Show all available companies in a new page with edit and view actions.
+            
+        Front end
+            i.      Login option for client.
+            ii.     Home page with a search option. When search, page refreshes with matching company details.
+            iii.    When click on the  result box in search page, go to the company details page. Details page displays all details including map location and image.
+
+    Required technologies
+
+        PHP (MVC Framework)
+        MySQL
+        JavaScript
+        Angular JS - Vue JS
+        Bootstrap
+
+    Upload project to git.
